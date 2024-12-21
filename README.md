@@ -5,6 +5,8 @@ The Group Study Incentives project is a blockchain-based solution that encourage
 
 ## Contract Address
 0x1D61cc9E1cE92BCCE408368e74A8043b00e258E1
+![image](https://github.com/user-attachments/assets/e139a1ef-3422-431b-ac8e-eda2132d5146)
+
 
 ## Project Vision
 The vision of this project is to promote collaborative learning and foster an engaging educational environment by leveraging blockchain technology. By offering tangible incentives, the platform aims to motivate students to participate in group study sessions, improve learning outcomes, and create a culture of teamwork and collaboration.
