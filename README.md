@@ -5,7 +5,8 @@ The Group Study Incentives project is a blockchain-based solution that encourage
 
 ## Contract Address
 0x1D61cc9E1cE92BCCE408368e74A8043b00e258E1
-![image](https://github.com/user-attachments/assets/e139a1ef-3422-431b-ac8e-eda2132d5146)
+![image](https://github.com/user-attachments/assets/fd45834d-8f30-48ce-897a-a2239383f50d)
+
 
 
 ## Project Vision
